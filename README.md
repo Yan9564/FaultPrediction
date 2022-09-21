@@ -1,2 +1,2 @@
 # FaultPrediction
-This includes code and simulation dataset in paper xxx
+This repository includes code and simulation dataset in paper xxx
