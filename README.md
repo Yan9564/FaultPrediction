@@ -2,4 +2,4 @@
 This repository includes code and simulation dataset in paper xxx
 
 ## Simulated data set description
-- wheel$i$_simu.xlsx constains the simulated vibration signals of wheel # $i$, $i=1,2,3,4$
+- wheeli_simu.xlsx constains the simulated vibration signals of wheel $i$, where $i=1,2,3,4$
