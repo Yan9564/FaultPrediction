@@ -1,7 +1,7 @@
 # DecisionLevelFaultPrediction
 - This repository includes code and simulation dataset in paper xxx
 
-## Simulated data
+## Data
 - __wheeli_simulated.xlsx__ are the simulated vibration signals of wheel $i$, where $i=1,2,3,4$
   - Due to privivy issue, we do not provid the original data in real applications. 
   - However, we provide the simulated data.
