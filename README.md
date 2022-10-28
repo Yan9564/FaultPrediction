@@ -17,7 +17,7 @@
 - keras 2.7.0
 - sklearn 0.24.2
 - [NBEATS](https://pypi.org/project/NBEATS/)
-- nbeats_pytorch
+- [nbeats_pytorch](https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/ar.html)
 - torch
 
 
