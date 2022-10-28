@@ -9,7 +9,8 @@
 
 ## Codes
 - proposed_simulation1_public.ipynb: proposed method in simulated case 1 
-  - current state: to be revised
-- proposed_simulation2_public.ipynb: proposed method in simulated case 2 (current state: empty)
+  - current state: first version upload, but need revision, to be continued 
+- proposed_simulation2_public.ipynb: proposed method in simulated case 2
+  - Current state: empty
 
 current state: to be continued
