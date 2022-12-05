@@ -23,9 +23,7 @@
 
 ## Codes
 - proposed_simulation1_public.ipynb: proposed method in simulated case 1 
-  - current state: first version upload, but need revision, to be continued 
-- proposed_simulation2_public.ipynb: proposed method in simulated case 2
-  - current state: to be uploaded
+  - current state: first version upload.
 
 ## Notes
 - [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) is recommended for for navigation, see how to add it in [this issue](https://stackoverflow.com/questions/21151450/how-can-i-add-a-table-of-contents-to-a-jupyter-jupyterlab-notebook).
