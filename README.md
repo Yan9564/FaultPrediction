@@ -27,4 +27,4 @@
 
 ## Notes
 - [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) is recommended for for navigation, see how to add it in [this issue](https://stackoverflow.com/questions/21151450/how-can-i-add-a-table-of-contents-to-a-jupyter-jupyterlab-notebook).
-- Email me [EMAIL](yanbingxin124@163.com) if you have any question.
+- Email me (yanbingxin124@163.com) if you have any question.
