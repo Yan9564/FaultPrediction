@@ -1,6 +1,6 @@
 # DecisionLevelFaultPrediction
 - This repository includes code and simulation dataset in paper:
-_Xiaobing Ma, Bingxin Yan, Han Wang, and Haitao Liao. Decision-level machinery fault prognosis using N-BEATS-based degradation feature prediction and reconstruction. Accepted by Mechanical Systems and Signal Processing_
+_Xiaobing Ma, Bingxin Yan, Han Wang, and Haitao Liao. [Decision-level machinery fault prognosis using N-BEATS-based degradation feature prediction and reconstruction](https://www.sciencedirect.com/science/article/pii/S0888327023003436). Accepted by Mechanical Systems and Signal Processing_
 
 ## Data
 - __wheeli_simulated.xlsx__ are the simulated vibration signals of wheel $i$, where $i=1,2,3,4$
