@@ -1,6 +1,6 @@
 # DecisionLevelFaultPrediction
-- This repository includes code and simulation dataset in paper:
-_Xiaobing Ma, Bingxin Yan, Han Wang, and Haitao Liao. [Decision-level machinery fault prognosis using N-BEATS-based degradation feature prediction and reconstruction](https://www.sciencedirect.com/science/article/pii/S0888327023003436). Accepted by Mechanical Systems and Signal Processing_
+- This repository includes code and simulation dataset in the paper:
+_Ma, X., Yan, B., Wang, H., & Liao, H. (2023). [Decision-level machinery fault prognosis using N-BEATS-based degradation feature prediction and reconstruction](https://www.sciencedirect.com/science/article/pii/S0888327023003436). Mechanical Systems and Signal Processing, 198, 110435._
 
 ## Data
 - __wheeli_simulated.xlsx__ are the simulated vibration signals of wheel $i$, where $i=1,2,3,4$
@@ -14,8 +14,8 @@ _Xiaobing Ma, Bingxin Yan, Han Wang, and Haitao Liao. [Decision-level machinery 
 - Pandas 1.3.4
 - scipy
 - time
-- tensorflow 2.7.0
-- keras 2.7.0
+- TensorFlow 2.7.0
+- Keras 2.7.0
 - sklearn 0.24.2
 - [NBEATS](https://pypi.org/project/NBEATS/)
 - [nbeats_pytorch](https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/ar.html)
@@ -24,8 +24,8 @@ _Xiaobing Ma, Bingxin Yan, Han Wang, and Haitao Liao. [Decision-level machinery 
 
 ## Codes
 - proposed_simulation1_public.ipynb: proposed method in simulated case 1 
-  - current state: first version upload.
+  - Current state: first version upload.
 
 ## Notes
-- [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) is recommended for for navigation, see how to add it in [this issue](https://stackoverflow.com/questions/21151450/how-can-i-add-a-table-of-contents-to-a-jupyter-jupyterlab-notebook).
-- Email me if you have any question : yanbingxin124@163.com
+- [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) is recommended for navigation, see how to add it in [this issue](https://stackoverflow.com/questions/21151450/how-can-i-add-a-table-of-contents-to-a-jupyter-jupyterlab-notebook).
+- Email me if you have any questions: yanbingxin124@163.com
